@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+JaderMorales;Web+Dev;Bot+Dev;JS+Lover+%3C3"></a>
+  <a href="https://github.com/JaderMorales"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+JaderMorales;Web+Dev;Bot+Dev;JS+Lover+%3C3"></a>
 </p>
 
 ---
@@ -30,7 +30,7 @@
 
 # 💻 Skills
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://devdocs.io/">
     <img src="https://skillicons.dev/icons?i=js,ts,css,html,nodejs,git,github,vscode,atom,ps&perline=12" />
   </a>
 </p>
