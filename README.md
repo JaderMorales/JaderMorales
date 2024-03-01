@@ -13,7 +13,7 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently studying Systems Engineering.
+🔭 I’m currently studying **Systems Engineering**.
 
 🌱 I’m currently learning :
 
@@ -38,17 +38,20 @@
   </a>
 </p>
 
-### 📮 Contact me
+
+# 📮 Contact me
 [![](https://skillicons.dev/icons?i=gmail)](jadermoralesnaar@gmail.com)
 [![](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/j4d3r.m/)
 [![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/719663380863909950)
+
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=JaderMorales&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JaderMorales&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaderMorales&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
+
+# 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JaderMorales&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
