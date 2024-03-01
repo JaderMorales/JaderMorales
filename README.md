@@ -12,7 +12,9 @@
 # 💫About Me :
 🔭 I’m currently studying Systems Engineering.
 
-🌱 I’m currently learning : [![](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+🌱 I’m currently learning :
+
+[![](https://skillicons.dev/icons?i=py)](https://devdocs.io/)
 
   ✔ Callme: He/His or TeamWorker
 
@@ -33,11 +35,10 @@
   </a>
 </p>
 
-# 📮 Contact me
-
-<a href = "mailto:jadermoralesnaar@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jadermoralesnaar@gmail.com"  /></a>
-
-
+### 📮 Contact me
+[![](https://skillicons.dev/icons?i=gmail)](jadermoralesnaar@gmail.com)
+[![](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/reels/C2uczaOP9NB/)
+[![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/719663380863909950)
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=JaderMorales&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -46,8 +47,5 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JaderMorales&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 </div>
