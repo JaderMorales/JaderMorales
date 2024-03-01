@@ -37,7 +37,7 @@
 
 ### 📮 Contact me
 [![](https://skillicons.dev/icons?i=gmail)](jadermoralesnaar@gmail.com)
-[![](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/reels/C2uczaOP9NB/)
+[![](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/j4d3r.m/)
 [![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/719663380863909950)
 
 # 📊GitHub Stats :
