@@ -6,6 +6,9 @@
   <a href="https://github.com/JaderMorales"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+JaderMorales;Web+Dev;Bot+Dev;JS+Lover+%3C3"></a>
 </p>
 
+![GitHub followers](https://img.shields.io/github/followers/JaderMorales?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/JaderMorales?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JaderMorales.repoName) <img src="https://komarev.com/ghpvc/?username=JaderMorales" alt="JaderMorales" />
+
+
 ---
 <div align="center">
   
